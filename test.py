@@ -1,8 +1,5 @@
-import sys
 from PyQt6 import uic,  QtCore, QtGui, QtWidgets
-import time
-import sys
-import os
+import time , sys, os
 from PyQt6.QtWidgets import *
 
 class page(QWidget):
